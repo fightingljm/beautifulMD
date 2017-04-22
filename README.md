@@ -185,9 +185,9 @@ https://github.com/fightingljm/mablog/raw/master/src/image/manypagesstudy.png
 
 ##列表
 ###无序列表
-* 昵称：果冻虾仁
-- 别名：隔壁老王
-* 英文名：Jelly
+* 昵称：阳光和你
+- 别名：无
+* 英文名：无
 
 ###多级无序列表
 * 编程语言
@@ -317,10 +317,12 @@ Github的Markdown语法支持添加emoji表情，输入不同的符号码（两�
 但是这个网页每次都打开**奇慢**。。所以请戳这里 :point_right: [emoji](./emoji.md)。
 
 --------------------------------
-[csdn]:http://blog.csdn.net/guodongxiaren "我的博客"
+[csdn]:https://fightingljm.github.io/myblog/#/ "我的博客"
 [zhihu]:https://www.zhihu.com/people/jellywong "我的知乎，欢迎关注"
 [weibo]:http://weibo.com/linpiaochen
 [baidu-logo]:http://www.baidu.com/img/bdlogo.gif "百度logo"
 [weibo-logo]:/img/weibo.png "点击图片进入我的微博"
 [csdn-logo]:/img/csdn.png "我的CSDN博客"
 [foryou]:https://github.com/guodongxiaren/ImageCache/raw/master/Logo/foryou.gif
+
+参考:果冻虾仁
